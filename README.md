@@ -1,2 +1,0 @@
-# SafeTrek
-Security Trek.
